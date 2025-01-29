@@ -30,7 +30,10 @@ The user interface (UI) for a voice controller app should be intuitive and acces
 4. Settings
 -Settings Menu
 
-5.
-Accessibility
+5.Accessibility
 -Voice Feedback
 -Consistent Commands
+
+
+output:
+![Image](https://github.com/user-attachments/assets/9b0ef330-383a-4183-8647-7bbac836c7fc)
